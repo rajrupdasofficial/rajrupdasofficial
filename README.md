@@ -2,7 +2,9 @@
 - 👀 I’m interested in Programming and Technologies
 - 🌱 I’m currently learning Computer Science 
 - 💞️ I’m looking to collaborate on Software and Web development field
-- 📫 How to reach me you can contact me on rajrupdasid@outlook.com
+- 📫 you can contact me on rajrupdasid@outlook.com
+- ✨  I usually more active on GitLab
+- ✨  Check my GitLab Profile too  GitLab https://www.gitlab.com/RajrupDasid
 
 <!---
 RajrupDasid/RajrupDasid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
