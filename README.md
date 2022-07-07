@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning Computer Science 
 - 💞️ I’m looking to collaborate on Software and Web development field
 - 📫 you can contact me on rajrupdasid@outlook.com
-- ✨  I usually more active on GitLab
-- ✨  Check my GitLab Profile too - https://www.gitlab.com/RajrupDasid
 
 <!---
 RajrupDasid/RajrupDasid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
