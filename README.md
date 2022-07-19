@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RajrupDas
 - 👀 I’m interested in Programming and Technologies
 - 🌱 I have completed my Computer Science degree  successfully and currently studying Machine Learning and Deep Network CNN
-- 💞️ I’m looking to collaborate on Software and Web development field and Machine Learning Filed
+- 💞️ I’m looking to collaborate on Software and Web development field and Machine Learning field
 - 📫 you can contact me on rajrupdasid@outlook.com
 - :) I am currently working in IICS as a Python programmer and System Engineer
 
