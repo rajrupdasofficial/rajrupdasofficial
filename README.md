@@ -1,9 +1,14 @@
 - 👋 Hi, I’m @RajrupDas
 - 👀 I’m interested in Programming and Technologies
 - 🌱 I have completed my Computer Science degree  successfully and currently studying Machine Learning and Deep Network CNN
+- ✨ Linus Torvalds sir is my inspiration. 
 - 💞️ I’m looking to collaborate on Software and Web development field as well as Machine Learning field
 - 📫 you can contact me on rajrupdasid@keemail.me
-- :) I am currently working in IICS as a Python programmer and System Engineer
+- :) I am currently working in IICS as a Python programmer and System Engineer.
+- :) Please contribute to Linux and Open Source softwares and Projetcs.
+
+                                             
+                                            ----- Hope you have a great day 💞️ -----
 
 <!---
 RajrupDasid/RajrupDasid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
