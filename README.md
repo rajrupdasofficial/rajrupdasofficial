@@ -6,9 +6,9 @@
 - 📫 you can contact me on rajrupdasid@keemail.me
 - :) I am currently working in IICS as a Python programmer and System Engineer.
 - :) Please contribute to Linux and Open Source softwares and Projetcs.
-
+- :) Find me on Mastodon - https://fosstodon.org/@rajrupdasid
                                              
-                                            ----- Hope you have a great day 💞️ -----
+                                          ----- Hope you have a great day 💞️ -----
 
 <!---
 RajrupDasid/RajrupDasid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
