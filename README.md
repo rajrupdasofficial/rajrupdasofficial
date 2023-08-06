@@ -5,7 +5,8 @@
 - 💞️ I’m looking to collaborate on Software & Machine Learning field and web development field is also welcome
 - 📫 you can contact me on rajrupofficialid@protonmail.com
 - :) Please contribute to Linux and Open Source softwares and Projects.
-- :) Find me on Mastodon - https://fosstodon.org/@rajrupdasid
+- :) Find me on Fosstodon - https://fosstodon.org/@rajrupdasid
+- :) Find me on Mastodon - https://mastodon.social/@rajrupofficial
                                              
                                           ----- Hope you have a great day 💞️ -----
 
