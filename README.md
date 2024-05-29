@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RajrupDas
 - 👀 I’m interested in Programming and Technologies
 - 🌱 I have completed my Computer Science degree  successfully and currently studying Machine Learning and Deep Network CNN
-- 💞️ I’m looking to collaborate on Software & Machine Learning field and web development field is also welcom
+- 💞️ I’m looking to collaborate on Software & Machine Learning field
 - -  My tech stack
 -  [![Fresh](https://fresh.deno.dev/fresh-badge.svg)](https://fresh.deno.dev)
 - 📫 you can contact me on rajrupofficial@webstackpros.net
