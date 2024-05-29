@@ -8,6 +8,9 @@
 - :) Find me on Fosstodon - https://fosstodon.org/@rajrupdasid
 - :) Find me on Mastodon - https://mastodon.social/@rajrupofficial
 - :) Checkout my offerings @ https://webstackpros.net
+-  My tech stack
+-  [![Fresh](https://fresh.deno.dev/fresh-badge.svg)](https://fresh.deno.dev)
+  
                                              
                                           ----- Hope you have a great day 💞️ -----
 
