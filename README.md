@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RajrupDas
 - 👀 I’m interested in Programming and Technologies
-- 🌱 I have completed my Masters in Computer Science degree successfully and I am currently a programmer at https://webstackpros.net
+- 🌱 I have completed my Masters in Computer Science degree successfully and I am currently a programmer.
 - I am also learning Zig programming and Rust to collaborate in Low level System Engineering field
 - 💞️ I’m ready to collaborate on Software & Machine Learning field
 -   My tech stack -
