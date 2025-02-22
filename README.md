@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming, Technologies, Robotics, AI, LLMS
 - 🌱 I have completed my Masters in Computer Science degree successfully and I am currently a programmer.
 - 🔥 I am also learning Zig programming language and Rust programming language to collaborate in Low level System Engineering field
-- 🦎 ⚡️ Zig and Rust bith my favorite programming languages ❤️
+- 🦎 ⚡️ Zig and Rust are my favorite programming languages ❤️
 - 💞️ I’m actively developing websites, applications, softwares for my clients also offering IT consult and support.
 - 🩷  My tech stack -
 -  [![Fresh](https://fresh.deno.dev/fresh-badge.svg)](https://fresh.deno.dev)
