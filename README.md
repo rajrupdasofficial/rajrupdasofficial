@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Rajrup Das
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%26+IT+Consultant;Masters+in+Computer+Science+%E2%9C%85;Learning+Zig+%E2%9A%A1+%26+Rust+%F0%9F%A6%80;Open+Source+Enthusiast+%F0%9F%90%A7;AI+%2F+LLMs+%2F+Robotics+Explorer+%F0%9F%A4%96" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Machine Learning Engineer;Masters+in+Computer+Science+%E2%9C%85;Learning+Zig+%E2%9A%A1+%26+Rust+%F0%9F%A6%80;Open+Source+Enthusiast+%F0%9F%90%A7;AI+%2F+LLMs+%2F+Robotics+Explorer+%F0%9F%A4%96" alt="Typing SVG" />
 
 <br/>
 
