@@ -24,14 +24,13 @@
     "Machine Learning Engineer 🤖",
     "Data Analyst 📊",
     "Full-Stack Developer 💻",
-    "IT Consultant 🏢"
   ],
   "education": "Masters in Computer Science ✅",
   "learning": ["Zig ⚡", "Rust 🦀"],
   "interests": ["Programming", "AI", "LLMs", "Robotics", "Technologies"],
   "freelance": true,
   "open_source": true,
-  "contact": "rajrupofficial@protonmail.com",
+  "contact": "rajrupofficialid@protonmail.com",
   "motto": "Write code that is safe, fast, and correct 🔥"
 }
 ```
