@@ -124,7 +124,7 @@
 |----------|--------|------|
 | 🏞️ Fosstodon | `@rajrupdasid` | [fosstodon.org/@rajrupdasid](https://fosstodon.org/@rajrupdasid) |
 | 🌎 Mastodon | `@rajrupofficial` | [mastodon.social/@rajrupofficial](https://mastodon.social/@rajrupofficial) |
-| 📫 Email | Direct Contact | [rajrupofficial@protonmail.com](mailto:rajrupofficial@protonmail.com) |
+| 📫 Email | Direct Contact | [rajrupofficialid@protonmail.com](mailto:rajrupofficialid@protonmail.com) |
 
 </div>
 
